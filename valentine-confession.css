@@ -59,7 +59,7 @@ body {
 	background-color: #eee;
 	font-family: "Quicksand", serif;
   font-optical-sizing: auto;
-	font-size: clamp(16px, 10vw, 17px);
+	font-size: clamp(5px, 10vw, 17px);
 	text-align: justify;
 	line-height: 1.5em;
 	width: 80%;

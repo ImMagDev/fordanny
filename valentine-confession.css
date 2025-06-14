@@ -58,8 +58,8 @@ body {
 	padding: 25px;
 	background-color: #eee;
 	font-family: "Quicksand", serif;
-  font-optical-sizing: auto;
-	font-size: clamp(5px, 10vw, 17px);
+	font-optical-sizing: auto;
+	font-size: clamp(15px, 10vw, 15px);
 	text-align: justify;
 	line-height: 1.5em;
 	width: 80%;
